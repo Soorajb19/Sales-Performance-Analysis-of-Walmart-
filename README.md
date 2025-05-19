@@ -1,4 +1,4 @@
- ##Introduction
+ ## Introduction
  
  Walmart, a major retail chain, operates across several cities, offering a wide range of products. The dataset
  provided contains detailed transaction data, including customer demographics, product lines, sales figures, and
@@ -6,7 +6,7 @@
  performance, customer behavior, and operational efficiencies.
 
  
- ##Business Problem
+ ## Business Problem
  
  Walmart wants to optimize its sales strategies by analyzing historical transaction data across branches,
  customer types, payment methods, and product lines. To achieve this, advanced MySQL queries will be
